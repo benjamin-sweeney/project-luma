@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "netlify-cli": "^1.2.3",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
@@ -20,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/benjamin-sweeney/project-luma/issues"
   },
-  "homepage": "https://github.com/benjamin-sweeney/project-luma#readme"
+  "homepage": "lumatheshiba.com"
 }
